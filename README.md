@@ -1,0 +1,2 @@
+# FootballIndex - DISCONTINUED DUE TO PLATFORM GOING INSOLVENT
+Python code only.
